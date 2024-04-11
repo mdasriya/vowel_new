@@ -21,11 +21,10 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
     ```sh
     npm start
     ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
-
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+    # ScreenShot
+![Screenshot (36)](https://github.com/mdasriya/vowel_new/assets/110367868/a10ed113-5d01-4fc4-8529-8ff6bb80fd05)
+![Screenshot (37)](https://github.com/mdasriya/vowel_new/assets/110367868/ee6b9d07-0510-4b28-9157-2107a80bd00c)
+![Screenshot (38)](https://github.com/mdasriya/vowel_new/assets/110367868/9df0611f-b282-4d2b-a55b-3f052ebd54f4)
+![Screenshot (39)](https://github.com/mdasriya/vowel_new/assets/110367868/31ccae37-9762-4ca9-9f61-f1ee571e2e09)
+![Screenshot (40)](https://github.com/mdasriya/vowel_new/assets/110367868/6004f46f-6642-4d05-8aeb-4036edfdcdb1)
+![Screenshot (41)](https://github.com/mdasriya/vowel_new/assets/110367868/748f9b6d-baf7-4dd3-9363-991948ade065)
