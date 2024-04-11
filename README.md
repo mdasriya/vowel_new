@@ -21,11 +21,6 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
     ```sh
     npm run dev
     ```
-Good Evening Mam 
-My Task is completed all features are  done and working properly
-
-task github link new 
-https://github.com/mdasriya/vowel_new
 
 to run code steps
   1 ) clone https://github.com/mdasriya/vowel_new
