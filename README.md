@@ -29,10 +29,6 @@ to run code steps
   4 ) login website using email password
   5 ) after login add to cart button visible 
  
- For Admin Login  
-  email : dasriyamukesh87@gmail.com
- password : Mukesh123@
-
  after admin login Admin can delete update product 
     
     # ScreenShot
