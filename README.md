@@ -19,8 +19,27 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Start the development server.
     ```sh
-    npm start
+    npm run dev
     ```
+Good Evening Mam 
+My Task is completed all features are  done and working properly
+
+task github link new 
+https://github.com/mdasriya/vowel_new
+
+to run code steps
+  1 ) clone https://github.com/mdasriya/vowel_new
+  2 ) npm i 
+  3 ) npm run dev  to start app 
+  4 ) login website using email password
+  5 ) after login add to cart button visible 
+ 
+ For Admin Login  
+  email : dasriyamukesh87@gmail.com
+ password : Mukesh123@
+
+ after admin login Admin can delete update product 
+    
     # ScreenShot
 ![Screenshot (36)](https://github.com/mdasriya/vowel_new/assets/110367868/a10ed113-5d01-4fc4-8529-8ff6bb80fd05)
 ![Screenshot (37)](https://github.com/mdasriya/vowel_new/assets/110367868/ee6b9d07-0510-4b28-9157-2107a80bd00c)
