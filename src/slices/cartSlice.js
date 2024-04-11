@@ -21,7 +21,7 @@ const cartSlice = createSlice({
     addToCart: (state, action) => {
       const product = action.payload;
       const index = state.cartData.findIndex((item) => item._id === product._id);
-
+    
       if (index >= 0) {
         // If the product is already in the cart, increase its quantity
         state.cartData[index].quantity++;
@@ -34,8 +34,8 @@ const cartSlice = createSlice({
         toast.success("Quantity Increased");
       } else {
         // If the product is not in the cart, add it to the cart with quantity 1
-        product.quantity = 1;
-        state.cartData.push(product);
+        const newProduct = { ...product, quantity: 1 }; // Create a new object with updated quantity
+        state.cartData.push(newProduct);
         // Update the total quantity and price
         state.totalItems++;
         state.total += product.Price;

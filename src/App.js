@@ -10,6 +10,7 @@ import Cart from "./page/Cart";
 import SignInN from "./page/SignInN";
 import CreateProduct from "./page/CreateProduct";
 import PrivateRouts from "./component/auth/PrivateRouts";
+import NotFound from "./page/NotFound";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="/signUp" element={<SignUp />} />
         <Route path="/cart" element={<Cart />} />
+        <Route path="*" element={<NotFound />} />
         <Route path="/CartCheckOut" element={<CartForm/>} />
         {/* <Route path="/createProduct" element={<CreateProduct/>} /> */}
         {/* Private Route */}
